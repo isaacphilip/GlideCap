@@ -2,19 +2,62 @@ Effective date: 23 October 2026
 Developer: Lizzner Apps
 Contact: mysitespecial@gmail.com
 
-Screen and audio recording:
-GlideCap records screen content only after you approve Android's screen-capture prompt. \
-On supported Android versions, you can choose a single app or your entire screen. 
-The floating viewfinder lets you adjust the recording area. Some apps block screen capture.
-You can record without audio, with microphone audio, with permitted internal app audio, or with a mix of internal and microphone audio. Microphone recording can include your voice and surrounding sounds. Internal audio capture depends on your Android version and the source app's capture policy. You can stop recording using Finish or the recording notification. Android may also end a capture session.
+Screen and audio recording
 
-Local processing and data collection:
+GlideCap records screen content only after you approve Android's screen-capture prompt. 
+On supported Android versions, you can choose a single app or your entire screen. The floating viewfinder lets you adjust the recording area. Some apps block screen capture.
+
+You can record without audio, with microphone audio, with permitted internal app audio, or with a mix of internal and microphone audio. 
+Microphone recording can include your voice and surrounding sounds. 
+Internal audio capture depends on your Android version and the source app's capture policy. 
+You can stop recording using Finish or the recording notification. Android may also end a capture session.
+
+Local processing and data collection
+
 GlideCap processes recordings and video edits on your device. 
 Lizzner Apps does not receive your screen recordings, audio, video exports or recording preferences through GlideCap. 
 The current app does not require an account, include advertising or analytics services, or request Internet access. It does not automatically upload recordings to a developer server.
 
-Storage, retention and deletion:
-New recordings and exports are stored in app storage on your device. They remain there until you delete them or uninstall the app. 
+Storage, retention and deletion
+
+New recordings and exports are stored in app storage on your device. 
+They remain there until you delete them or uninstall the app. 
 Uninstalling GlideCap removes files that exist only in its app storage.
-You may save a copy to Gallery or share a recording to another app. Those copies can remain after the original recording is deleted or GlideCap is uninstalled. 
-You must delete copies separately from the relevant Gallery, file manager, recipient, app or service. GlideCap also lists accessible recordings in Movies/GlideCap.
+
+You may save a copy to Gallery or share a recording to another app. 
+Those copies can remain after the original recording is deleted or GlideCap is uninstalled. 
+You must delete copies separately from the relevant Gallery, file manager, recipient, app or service. 
+GlideCap also lists accessible recordings in Movies/GlideCap.
+
+Android system backup and device transfer
+
+GlideCap permits Android's system backup and device-transfer features. 
+Depending on your Android version, device, account settings and the system's backup rules and limits, eligible app data may be backed up or transferred by Android or your device provider. 
+Lizzner Apps does not operate that backup service or receive those backups through GlideCap. Manage system backup through your device and account settings.
+
+Sharing with other apps
+
+GlideCap shares a recording when you select a sharing action and choose a destination through Android. 
+The receiving app or service handles the shared copy under its own privacy practices. 
+Lizzner Apps does not control those destinations or copies that you have shared.
+
+Permissions and recording controls
+
+Screen-capture approval allows the app to record the screen or selected app for the session you approve. 
+Microphone permission allows audio recording when you choose a microphone audio mode. 
+Display over other apps provides the floating viewfinder, zoom and Finish controls. 
+Notification permission and foreground recording services provide visible recording status and a stop action while recording continues.
+
+You can deny or revoke permissions in Android Settings. Features that need a denied permission may be unavailable. 
+Recording preferences can be changed in GlideCap Settings.
+
+Your choices
+
+You control when recording begins and ends, the audio source, and whether to delete, save or share recordings. 
+Avoid capturing or sharing private information or other people's conversations without appropriate permission. 
+Before uninstalling, save any recordings you want to keep outside app storage.
+
+Changes and contact
+
+If GlideCap's data practices change, Lizzner Apps will update this policy and its effective date. 
+For questions about this policy or GlideCap's privacy practices, contact mysitespecial@gmail.com.
